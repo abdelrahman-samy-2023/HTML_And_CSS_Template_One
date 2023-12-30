@@ -20,3 +20,11 @@ This repository contains my second website project, which I developed using only
 - CSS3
 
 ## TO EXPLORE THE WEBSITE : <https://abdelrahman-samy-2023.github.io/HTML_And_CSS_Template_One/>
+
+## Screenshots:
+
+  **Web Preview**: ![_D__HTML_And_CSS_Template_One_index html](https://github.com/abdelrahman-samy-2023/HTML_And_CSS_Template_One/assets/152280780/3c47e7f3-7f57-4113-96d2-374767aa9e64)
+
+
+    **Mobile Preview**: ![_D__HTML_And_CSS_Template_One_index html(iPhone 14 Pro Max)](https://github.com/abdelrahman-samy-2023/HTML_And_CSS_Template_One/assets/152280780/ba6e6195-9769-4fb4-8b63-077b64a901c4)
+  
